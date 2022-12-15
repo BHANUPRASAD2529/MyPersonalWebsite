@@ -110,7 +110,7 @@ html{
     margin-bottom: 60px;
 }
 #home .content h1::after{
-    content: "Bhanu ";
+    content: "Bhanu Prasad Kummari";
     animation: textanim 6s linear infinite;
 }
 #home .content h1::before{
